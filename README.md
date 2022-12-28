@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shivamski
+- 👀 I’m interested in distributed systems, low latency development and finance.
+- 🌱 I’m currently learning about software engineering in HFTs.
+- 💞️ I’m looking to collaborate on anything creative
+- 📫 How to reach me: [linkedin](http://linkedin.com/in/shivam-acharya-909/)
